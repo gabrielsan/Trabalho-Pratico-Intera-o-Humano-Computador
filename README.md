@@ -1,3 +1,9 @@
+Disciplina: Interação Humano-Computar
+Semestre: 1/2025
+Alunos: Gabriel Santos Silva, Marco Antonio Maia, Marcus Vinicius e Gustavo Muniz.
+Universidade Federal de Lavras, Campus Sede - Lavras/MG.
+Professor: André Pimenta.
+
 🎯 Abordagem de Prototipagem
 
 Optou-se por uma prototipagem de alta fidelidade, implementada diretamente com Next.js, para simular de forma realista a experiência final do usuário.
